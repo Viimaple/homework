@@ -20,7 +20,6 @@ git clone https://github.com/Viimaple/homework.git
 
 ```sh
 $chmod +x work
-$chmod +x water_text.bash
 ```
 
 ## 使い方
