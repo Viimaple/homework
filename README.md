@@ -26,15 +26,15 @@
 
 ### プログラムの実行例
 
-chmod +x work  
-vi work  
-体重を入力してください[単位：kg]  
-70  
-あなたの体重に基づき、1日に必要な水分摂取量は2.31Lです。  
+`$chmod +x work`
+`$vi work`  
+`体重を入力してください[単位：kg]`  
+`70`  
+`あなたの体重に基づき、1日に必要な水分摂取量は2.31Lです。`  
 
-chmod +x water_text.bash  
-vi water_text.bash  
-OK  
+`$chmod +x water_text.bash`  
+`$vi water_text.bash`  
+`OK`  
 ## ライセンス
 
 このプロジェクトはBSD-3-Clauseライセンスのもとで公開されています。
