@@ -14,11 +14,8 @@
 
 1. リポジトリをクローンします。
 
-    git clone https://github.com/Viimaple/robosys2024.git
+    git clone https://github.com/Viimaple/homework.git
 
-2. プロジェクトディレクトリに移動します。
-
-    cd robosys2024/homework
 
 ## 使い方
 
