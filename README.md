@@ -46,3 +46,4 @@ a
 ## クレジット
 このプログラムの一部————`water_text.bash`はRyuichi Ueda先生のコードを参考にしています。ご貢献に感謝します。
  
+© 2024 Mori Yoshizumi
