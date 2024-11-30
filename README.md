@@ -14,8 +14,8 @@
 1. リポジトリをクローンします。
 ```sh
 $ git clone https://github.com/Viimaple/homework.git
-```
-  2.必要な権限を設定して実行可能にします：
+```  
+2.必要な権限を設定して実行可能にします：
 
 ```sh
 $ chmod +x work
