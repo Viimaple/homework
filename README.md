@@ -25,16 +25,17 @@
 `work` は、ユーザーに体重を入力させ、1日に必要な水分摂取量を計算します。`water_text.bash`は`work`の動作を自動的にテストします。実行方法は以下の通りです。
 
 ### プログラムの実行例
+```sh
+$chmod +x work
+$vi work  
+体重を入力してください[単位：kg]  
+70  
+あなたの体重に基づき、1日に必要な水分摂取量は2.31Lです。  
 
-`$chmod +x work`
-`$vi work`  
-`体重を入力してください[単位：kg]`  
-`70`  
-`あなたの体重に基づき、1日に必要な水分摂取量は2.31Lです。`  
-
-`$chmod +x water_text.bash`  
-`$vi water_text.bash`  
-`OK`  
+$chmod +x water_text.bash  
+$vi water_text.bash  
+OK
+```
 ## ライセンス
 
 このプロジェクトはBSD-3-Clauseライセンスのもとで公開されています。
