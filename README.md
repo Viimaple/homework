@@ -45,5 +45,8 @@ a
 
 ## クレジット
 このプログラムの一部————`water_text.bash`はRyuichi Ueda先生のコードを参考にしています。ご貢献に感謝します。
+
+## テスト環境
+- Ubuntu 22.04.5 LTS
  
 © 2024 Mori Yoshizumi
