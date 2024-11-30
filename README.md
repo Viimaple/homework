@@ -19,8 +19,8 @@
 2.必要な権限を設定して実行可能にします：
 
 ```sh
-chmod +x work
-chmod +x water_text.bash
+$chmod +x work
+$chmod +x water_text.bash
 ```
 
 ## 使い方
