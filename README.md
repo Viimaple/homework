@@ -19,7 +19,7 @@ git clone https://github.com/Viimaple/homework.git
 2.必要な権限を設定して実行可能にします：
 
 ```sh
-$chmod +x work
+$ chmod +x work
 ```
 
 ## 使い方
@@ -29,14 +29,14 @@ $chmod +x work
 ### プログラムの実行例
 - 正しい入力例
 ```sh
-$./work  
+$ ./work  
 体重を入力してください[単位：kg]  
 70  
 あなたの体重に基づき、1日に必要な水分摂取量は2.31Lです。  
 ```
 - 変な入力の例
 ```sh
-$./work
+$ ./work
 体重を入力してください[単位：kg]
 a
 無効な入力です。体重を数値で入力してください。
