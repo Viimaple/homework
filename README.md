@@ -16,6 +16,12 @@
 
     git clone https://github.com/Viimaple/homework.git
 
+2.必要な権限を設定して実行可能にします：
+
+```sh
+chmod +x work
+chmod +x water_text.bash
+```
 
 ## 使い方
 
@@ -23,13 +29,11 @@
 
 ### プログラムの実行例
 ```sh
-$chmod +x work
 $vi work  
 体重を入力してください[単位：kg]  
 70  
 あなたの体重に基づき、1日に必要な水分摂取量は2.31Lです。  
-
-$chmod +x water_text.bash  
+ 
 $vi water_text.bash  
 OK
 ```
