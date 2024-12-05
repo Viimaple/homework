@@ -12,5 +12,5 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: All test
-      run: bash -xv text/water_text.bash  
+      run: bash -xv test/water_test.bash  
 
